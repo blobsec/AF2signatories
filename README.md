@@ -29,5 +29,5 @@ pnpm install
 
 ## How to Use
 
-1. Run npx hardhat compile to compile the af2signatories smart contract.
-2. Run npx hardhat test to run the smart contract test.
+1. Run `npx hardhat compile` to compile the af2signatories smart contract.
+2. Run `npx hardhat test` to run the smart contract test.
