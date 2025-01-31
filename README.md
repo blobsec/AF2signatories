@@ -1,6 +1,6 @@
 # A2FSignatories
 
-This repository contains the Hardhat project for the af2signatories smart contract along with a sample test. The smart contract is designed for use in the context outlined in the research paper: https://doi.org/10.1007/s10207-024-00818-y.
+This repository contains the Hardhat project for the af2signatories smart contract along with a sample test. The smart contract is designed based on the research paper: https://doi.org/10.1007/s10207-024-00818-y.
 
 ## Abstract
 
