@@ -1,0 +1,22 @@
+{
+  "name": "af2signatories",
+  "version": "1.0.0",
+  "description": "Install dependencies: ``` pnpm install ```",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.9.2",
+    "hardhat": "^2.22.18"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.12",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.5"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
